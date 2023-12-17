@@ -3,6 +3,23 @@
 - **REST API Endpoint**: [Backend Moneo](https://backend-moneo-pyy3zhb4pa-et.a.run.app/)
 - **API Documentation**: [Figma Documentation](https://www.figma.com/file/2BW6uOb9D2ZP5rdx56Icgv/Job-Desk-CC?type=whiteboard&node-id=0-1&t=glSWbT4XGb4JNk7Z-0)
 
+## Instructions for Replication
+
+1. Clone the Repository:
+   ```bash
+   git clone https://github.com/CH2-PS188/CC_backend.git
+2. Navigate to the Project Directory:
+   ```bash
+   cd CC_backend
+3. Install Dependencies:
+   ```bash
+   npm install
+5. Database Setup (if applicable):
+   Include instructions for database setup, migrations, and seed data.
+6. Run the Application:
+   ```bash
+   npm start
+   
 ## Rekening Endpoints
 
 ### Add Rekening
